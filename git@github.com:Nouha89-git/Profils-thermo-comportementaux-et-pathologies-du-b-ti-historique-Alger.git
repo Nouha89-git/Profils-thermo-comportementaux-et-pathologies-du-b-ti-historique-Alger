@@ -1079,12 +1079,12 @@
         "print(\"✓ Figure A — Profil répondants\")"
       ],
       "metadata": {
-        "id": "1UfXg42Ol1D1",
-        "outputId": "dd649bfe-38ea-4aae-d6c7-f85f32959662",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 524
-        }
+        },
+        "id": "1UfXg42Ol1D1",
+        "outputId": "dd649bfe-38ea-4aae-d6c7-f85f32959662"
       },
       "execution_count": 71,
       "outputs": [
@@ -1173,12 +1173,12 @@
         "print(\"✓ Figure B — Architecture & enveloppe\")"
       ],
       "metadata": {
-        "id": "IjYOO8vMmNjz",
-        "outputId": "98bbf25e-6088-4ff6-b58b-2f7595a0df4b",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 524
-        }
+        },
+        "id": "IjYOO8vMmNjz",
+        "outputId": "98bbf25e-6088-4ff6-b58b-2f7595a0df4b"
       },
       "execution_count": 72,
       "outputs": [
@@ -1250,12 +1250,12 @@
         "print(\"✓ Figure C — Individual map clusters\")"
       ],
       "metadata": {
-        "id": "FL7dpg-gm1ld",
-        "outputId": "e188b233-16f4-4bf4-cdc4-064382748d1e",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 535
-        }
+        },
+        "id": "FL7dpg-gm1ld",
+        "outputId": "e188b233-16f4-4bf4-cdc4-064382748d1e"
       },
       "execution_count": 73,
       "outputs": [
@@ -1374,12 +1374,12 @@
         "print(\"  V ≥ 0.40 : association forte\")"
       ],
       "metadata": {
-        "id": "LERUQQLbnjW9",
-        "outputId": "52e3472b-2e53-4bdc-831a-abaef3aac683",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 1000
-        }
+        },
+        "id": "LERUQQLbnjW9",
+        "outputId": "52e3472b-2e53-4bdc-831a-abaef3aac683"
       },
       "execution_count": 74,
       "outputs": [
